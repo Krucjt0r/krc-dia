@@ -2,7 +2,7 @@
   "id": "krc-dia",
   "title": "Descend into Avernus",
   "description": "Full adventure compendium for Baldur's Gate: Descent into Avernus in Foundry VTT, including actors, items, journals, scenes, macros, cards, playlists, rolltables, and a starter scene packer adventure.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
